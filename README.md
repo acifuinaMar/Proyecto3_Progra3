@@ -1,6 +1,10 @@
 # Documentación del Proyecto 3, Programación 3
 ## Descripción general
 El proyecto es una aplicación de gestión de vehículos organizados en una matriz ortogonal. Los vehículos son almacenados en nodos que forman parte de una lista enlazada bidimensional, permitiendo su inserción, búsqueda, eliminación y visualización por filas y columnas.
+## Requisitos del Sistema
+- **Java Development Kit (JDK)**: Versión 17 o superior.
+- **NetBeans IDE**: Versión 12.0 o superior (opcional, pero recomendado).
+- **Sistema Operativo**: Windows, macOS o Linux.
 ## Clases del proyecto
 ### Clase Nodo
 * Atributos
